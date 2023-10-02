@@ -54,7 +54,7 @@
 
 🗞️ [Bangla News by Unicode](#) - Online news platform enabling news posting in Unicode-supported Bengali with user comments using a custom Bengali keyboard.
 
-
+🔢 [Calculate Functional Closer](#) - Mathematical solution service involving JavaScript algorithm implementation for Function Closer calculations.
 <!--
 add letter...
 📰 Invoice Builder
