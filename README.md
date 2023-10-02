@@ -6,7 +6,11 @@
 
 🏫 [Astute by Banglafire](https://www.linkedin.com/company/banglafire-solution-limited/mycompany/) - An integrated School Management System that centrally manages schools, teachers, and students, encompassing attendance tracking, result processing, fee management, scheduling, library management, SMS communication, inventory management, club activities, sports management, and canteen operations.
 
-📒[Audit Trail](https://akorbi.com/) - Implement comprehensive transaction tracking for project tasks, displaying real-time updates, identifying responsible individuals for activity changes, and facilitating historical data monitoring.  
+📒[Audit Trail](https://akorbi.com/) - Implement comprehensive transaction tracking for project tasks, displaying real-time updates, identifying responsible individuals for activity changes, and facilitating historical data monitoring. 
+
+🎫 [MarketSharp-CRM](https://www.marketsharp.com/) - This system enables targeted client communication for product/service purchases, maintains ongoing communication, facilitates email correspondence, schedules meetings, and offers a robust search function, including location-based searches.
+
+🏘️ [Boomershub](https://www.boomershub.com/) - This platform offers housing solutions for seniors, where homeowners list their properties with details, and seniors or their families search for suitable homes based on location and amenities. Seniors can secure accommodations by signing contracts.
 
 🏢 [Tanjimul Madaris](http://www.tanjimulmadaris.com/) - Integrated system for managing education boards, exams, centers, student marks entry, result processing, and result viewing, including a dedicated module for madrasa management.
 
@@ -18,7 +22,11 @@
 
 🔣 [USA Census Automation](https://www.iimdirect.com/) - Create a data entry automation solution for the USA Census that assigns images to users and synchronizes text input with corresponding image locations, facilitating quicker data entry and automated payment calculations.
 
-[SCM - Supply Chain Management](https://jabait.com/) - Develop a comprehensive business system for production, importing-exporting, and buy-sell trading that tracks raw material procurement, manages inventory, and records sales transactions.
+📦 [Supply Chain Management - SCM](https://jabait.com/) - Develop a comprehensive business system for production, importing-exporting, and buy-sell trading that tracks raw material procurement, manages inventory, and records sales transactions.
+
+💰 [Organization VAT Calculation - OVC](https://jabait.com/) - This system handles VAT calculations for purchases, sales, and damages while generating eleven NBR Mushk reports.
+
+🏭 [ERP](https://jabait.com/) - This system manages production, purchase, sales, accounts, HRM, training, leave, holiday, and attendance for businesses in production, importing-exporting, and buy-sell trading sectors.
 
 <!--
 **khalidfo/khalidfo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
