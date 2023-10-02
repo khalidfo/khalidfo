@@ -22,12 +22,14 @@
 
 💻 [Machine Learning Approaches for Modeling Spammer Behavior](https://arxiv.org/ftp/arxiv/papers/1008/1008.3282.pdf) - Email analysis system that evaluates email content to determine if it's spam or not by assigning numerical values to items and summing them up.
 
+<br>
+  
 <details>
 <summary>
-  Some more projects 👇👇👇
+  <b> Some more projects</b>b 👇👇👇
 </summary>
 
-<be >
+<br>
 
 🛢️ [DB Conversion](https://www.marketsharp.com/) - Database migration from MS Access to MS SQL Server
   
