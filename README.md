@@ -24,7 +24,7 @@
 
 <details>
 <summary>
-  ### Some more projects
+  <h3>Some more projects</h3>h3>
 </summary>
 
 <be >
