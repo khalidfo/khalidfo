@@ -24,7 +24,11 @@
 
 <details>
 <summary>
-  <h3>Some more projects</h3>h3>
+  <h3>Some more projects 👇👇👇</h3>
+</summary>
+
+<summary>
+  Some more projects 👇👇👇
 </summary>
 
 <be >
