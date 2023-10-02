@@ -3,7 +3,9 @@
 
 🏫 [Astute](https://astutebd.com/) - An integrated School Management System that centrally manages schools, teachers, and students, encompassing attendance tracking, result processing, fee management, scheduling, library management, SMS communication, inventory management, club activities, sports management, and canteen operations.
 
-🧮 Vivid Accounting - An Accounting Management System featuring various vouchers, checkbook management, and comprehensive reporting capabilities. 
+🧮 [Vivid Accounting](http://vividinternational.net/) - An Accounting Management System featuring various vouchers, checkbook management, and comprehensive reporting capabilities. 
+
+🎓 [Academic ERP](http://vividinternational.net/) - Admin Portal for school administrative tasks., Teacher Portal for timetables and student performance. Student/Parent Portal for academic info, events, attendance, and fees, with a user-friendly Dashboard and fee collection.
 
 
 <!--
