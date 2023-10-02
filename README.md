@@ -3,6 +3,9 @@
 
 🏫 [Astute](https://astutebd.com/) - An integrated School Management System that centrally manages schools, teachers, and students, encompassing attendance tracking, result processing, fee management, scheduling, library management, SMS communication, inventory management, club activities, sports management, and canteen operations.
 
+🧮 Vivid Accounting - An Accounting Management System featuring various vouchers, checkbook management, and comprehensive reporting capabilities. 
+
+
 <!--
 **khalidfo/khalidfo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
