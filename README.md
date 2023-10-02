@@ -1,10 +1,8 @@
 # 👋 Hi, it's Khalid, nice to see you. 
 
-## Randomly Selected Projects
+## Some Random Projects
 
 📊 [Image Data Analysis](https://www.olympus-ims.com/en/) - A versatile image data analysis application presented in various formats to assist users in making informed decisions with ease.
-
-🏫 [Astute by Banglafire](https://www.linkedin.com/company/banglafire-solution-limited/mycompany/) - An integrated School Management System that centrally manages schools, teachers, and students, encompassing attendance tracking, result processing, fee management, scheduling, library management, SMS communication, inventory management, club activities, sports management, and canteen operations.
 
 📒[Audit Trail](https://akorbi.com/) - Implement comprehensive transaction tracking for project tasks, displaying real-time updates, identifying responsible individuals for activity changes, and facilitating historical data monitoring. 
 
@@ -14,19 +12,7 @@
 
 🏢 [Tanjimul Madaris](http://www.tanjimulmadaris.com/) - Integrated system for managing education boards, exams, centers, student marks entry, result processing, and result viewing, including a dedicated module for madrasa management.
 
-🧮 [Vivid Accounting](http://vividinternational.net/) - An Accounting Management System featuring various vouchers, checkbook management, and comprehensive reporting capabilities. 
-
-🎓 [Academic ERP](http://vividinternational.net/) - Admin Portal for school administrative tasks., Teacher Portal for timetables and student performance. Student/Parent Portal for academic info, events, attendance, and fees, with a user-friendly Dashboard and fee collection.
-
-🩺 [Doctor Prescription Automation](https://www.iimdirect.com/) - Develop a data entry automation application for doctor prescriptions that assigns images to users and synchronizes text input with corresponding image locations, enabling faster data entry and automated payment calculations.
-
 🔣 [USA Census Automation](https://www.iimdirect.com/) - Create a data entry automation solution for the USA Census that assigns images to users and synchronizes text input with corresponding image locations, facilitating quicker data entry and automated payment calculations.
-
-📦 [Supply Chain Management - SCM](https://jabait.com/) - Develop a comprehensive business system for production, importing-exporting, and buy-sell trading that tracks raw material procurement, manages inventory, and records sales transactions.
-
-💰 [Organization VAT Calculation - OVC](https://jabait.com/) - This system handles VAT calculations for purchases, sales, and damages while generating eleven NBR Mushk reports.
-
-🏭 [ERP](https://jabait.com/) - This system manages production, purchase, sales, accounts, HRM, training, leave, holiday, and attendance for businesses in production, importing-exporting, and buy-sell trading sectors.
 
 🗼 [Roll of Control - ROC](https://www.grameenphone.com/) - It's a desktop application for managing telecom resources, enhanced with Excel report generation, and used internally for assets, agreements, and fault management.
 
@@ -34,13 +20,33 @@
 
 💽 [Whisper](https://www.motorola.com/) - Transform switching device text files into a relational database, enabling report generation.
 
-🔭 [Web-Based Monitoring System](https://www.grameenphone.com/) - Telecom business involving base station posting, monitoring, and issue resolution with a ticketing system.
+💻 [Machine Learning Approaches for Modeling Spammer Behavior](https://arxiv.org/ftp/arxiv/papers/1008/1008.3282.pdf) - Email analysis system that evaluates email content to determine if it's spam or not by assigning numerical values to items and summing them up.
 
+<details>
+<summary>
+  ### Some more projects
+</summary>
+
+<be >
+🏫 [Astute by Banglafire](https://www.linkedin.com/company/banglafire-solution-limited/mycompany/) - An integrated School Management System that centrally manages schools, teachers, and students, encompassing attendance tracking, result processing, fee management, scheduling, library management, SMS communication, inventory management, club activities, sports management, and canteen operations.
+  
+📦 [Supply Chain Management - SCM](https://jabait.com/) - Develop a comprehensive business system for production, importing-exporting, and buy-sell trading that tracks raw material procurement, manages inventory, and records sales transactions.
+
+💰 [Organization VAT Calculation - OVC](https://jabait.com/) - This system handles VAT calculations for purchases, sales, and damages while generating eleven NBR Mushk reports.
+
+🏭 [ERP](https://jabait.com/) - This system manages production, purchase, sales, accounts, HRM, training, leave, holiday, and attendance for businesses in production, importing-exporting, and buy-sell trading sectors.
+
+🔭 [Web-Based Monitoring System](https://www.grameenphone.com/) - Telecom business involving base station posting, monitoring, and issue resolution with a ticketing system.
+ 
 📊 [Neural Accounting Package - NAP](http://bangladeshyellowpages.com/details/189140-neural-systems-ltd.html) - A desktop-based accounting solution for small businesses offering flexible head creation and various voucher types.
 
 ⛱️ [Leave Management](http://bangladeshyellowpages.com/details/189140-neural-systems-ltd.html) -  An application for managing leaves and holidays with approval workflows and detailed monthly leave reports for organizations and employees.
 
-💻 [Machine Learning Approaches for Modeling Spammer Behavior](https://arxiv.org/ftp/arxiv/papers/1008/1008.3282.pdf) - Email analysis system that evaluates email content to determine if it's spam or not by assigning numerical values to items and summing them up.
+🧮 [Vivid Accounting](http://vividinternational.net/) - An Accounting Management System featuring various vouchers, checkbook management, and comprehensive reporting capabilities. 
+
+🎓 [Academic ERP](http://vividinternational.net/) - Admin Portal for school administrative tasks., Teacher Portal for timetables and student performance. Student/Parent Portal for academic info, events, attendance, and fees, with a user-friendly Dashboard and fee collection.
+
+🩺 [Doctor Prescription Automation](https://www.iimdirect.com/) - Develop a data entry automation application for doctor prescriptions that assigns images to users and synchronizes text input with corresponding image locations, enabling faster data entry and automated payment calculations.
 
 📐 [Student Alumni System](#) - Alumni network platform for classmates.
 
@@ -60,20 +66,14 @@
 
 🍽️ [Restaurant Point of Sale](#) - For restaurants, the system manages orders, prepares dishes to order, and generates bills.
 
-🏪 [Inventory Management](#) - This system, designed for shops, handles purchases and production to increase stock, tracks stock information by location, provides low stock reminders, and identifies frequently used items.
-
-<details>
-<summary>
-  You wanna know more about me?
-</summary>
-
-<be >
-
 📦 [Store Management](#) - This system, designed for shops, serves as a buy-sell platform and incorporates data mining techniques, including association, classification, sequential pattern, time series, and categorization segmentation.
 
 📅 [Daily Appointment Management](#) - This system, designed for daily work, allows users to set appointments and receive reminders.
 
 🛒 [Union Sales System](#) - A pharmaceutical system that manages sales, stock information, and provides low stock reminders.
+
+🏪 [Inventory Management](#) - This system, designed for shops, handles purchases and production to increase stock, tracks stock information by location, provides low stock reminders, and identifies frequently used items.
+
 </details>
 
 
