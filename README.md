@@ -6,8 +6,9 @@
 
 🏫 [Astute by Banglafire](https://www.linkedin.com/company/banglafire-solution-limited/mycompany/) - An integrated School Management System that centrally manages schools, teachers, and students, encompassing attendance tracking, result processing, fee management, scheduling, library management, SMS communication, inventory management, club activities, sports management, and canteen operations.
 
-Audit Trail (Project Management System) 
+📒[Audit Trail](https://akorbi.com/) - Implement comprehensive transaction tracking for project tasks, displaying real-time updates, identifying responsible individuals for activity changes, and facilitating historical data monitoring.  
 
+[Tanjimul Madaris](http://www.tanjimulmadaris.com/) - Integrated system for managing education boards, exams, centers, student marks entry, result processing, and result viewing, including a dedicated module for madrasa management.
 
 🧮 [Vivid Accounting](http://vividinternational.net/) - An Accounting Management System featuring various vouchers, checkbook management, and comprehensive reporting capabilities. 
 
