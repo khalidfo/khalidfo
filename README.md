@@ -28,11 +28,31 @@
 
 🏭 [ERP](https://jabait.com/) - This system manages production, purchase, sales, accounts, HRM, training, leave, holiday, and attendance for businesses in production, importing-exporting, and buy-sell trading sectors.
 
+🗼 [Roll of Control - ROC](https://www.grameenphone.com/) - It's a desktop application for managing telecom resources, enhanced with Excel report generation, and used internally for assets, agreements, and fault management.
+
+🛢️ [DB Conversion](https://www.marketsharp.com/) - Database migration from MS Access to MS SQL Server
+
+💽 [Whisper](https://www.motorola.com/) - Transform switching device text files into a relational database, enabling report generation.
+
+🔭 [Web-Based Monitoring System](https://www.grameenphone.com/) - Telecom business involving base station posting, monitoring, and issue resolution with a ticketing system.
+
+📊 [Neural Accounting Package - NAP](#) - 
+
 <!--
+add letter...
+📰 Invoice Builder
+- SERP checker
+
+fail product...
+jzom
+thatlive
+mosrin - pos, ecome
+
+
 **khalidfo/khalidfo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-📰 Invoice Builder
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
