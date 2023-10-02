@@ -62,12 +62,19 @@
 
 🏪 [Inventory Management](#) - This system, designed for shops, handles purchases and production to increase stock, tracks stock information by location, provides low stock reminders, and identifies frequently used items.
 
+<details>
+<summary>
+  You wanna know more about me?
+</summary>
+
+<be >
+
 📦 [Store Management](#) - This system, designed for shops, serves as a buy-sell platform and incorporates data mining techniques, including association, classification, sequential pattern, time series, and categorization segmentation.
 
 📅 [Daily Appointment Management](#) - This system, designed for daily work, allows users to set appointments and receive reminders.
 
 🛒 [Union Sales System](#) - A pharmaceutical system that manages sales, stock information, and provides low stock reminders.
-
+</details>
 
 
 #### Get in touch with me
