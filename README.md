@@ -1,4 +1,4 @@
-<h1>👋 Hi, it's Khalid, nice to see you.</h1>
+# 👋 Hi, it's Khalid, nice to see you.</h1>
 
 ### Here's Randomly Selected Projects
 
