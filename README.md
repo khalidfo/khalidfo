@@ -70,6 +70,12 @@
 
 
 
+#### Reach me
+
+- [Linkedin](https://www.linkedin.com/in/khalidfarhan/)
+- [Facebook](https://www.facebook.com/khalidfo)
+- [Twitter](https://twitter.com/khalid_farhan)
+
 
 
 
