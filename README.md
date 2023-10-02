@@ -24,10 +24,6 @@
 
 <details>
 <summary>
-  <h3>Some more projects 👇👇👇</h3>
-</summary>
-
-<summary>
   Some more projects 👇👇👇
 </summary>
 
@@ -81,7 +77,7 @@
 </details>
 
 
-#### Get in touch with me
+<b>Get in touch with me</b>
 
 - [Linkedin](https://www.linkedin.com/in/khalidfarhan/)
 - [Facebook](https://www.facebook.com/khalidfo)
