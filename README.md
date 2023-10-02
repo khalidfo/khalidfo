@@ -26,7 +26,7 @@
   
 <details>
 <summary>
-  <b><u> Some more projects </u>u</b> 👇👇👇
+  <b><u> Some more projects </u></b> 👇👇👇
 </summary>
 
 <br>
