@@ -55,6 +55,25 @@
 🗞️ [Bangla News by Unicode](#) - Online news platform enabling news posting in Unicode-supported Bengali with user comments using a custom Bengali keyboard.
 
 🔢 [Calculate Functional Closer](#) - Mathematical solution service involving JavaScript algorithm implementation for Function Closer calculations.
+
+📖 [Course Offering System](#) - The system identifies subject dependencies, helping students see the subjects they must complete before taking their desired courses at the university.
+
+🍽️ [Restaurant Point of Sale](#) - For restaurants, the system manages orders, prepares dishes to order, and generates bills.
+
+🏪 [Inventory Management](#) - This system, designed for shops, handles purchases and production to increase stock, tracks stock information by location, provides low stock reminders, and identifies frequently used items.
+
+📦 [Store Management](#) - This system, designed for shops, serves as a buy-sell platform and incorporates data mining techniques, including association, classification, sequential pattern, time series, and categorization segmentation.
+
+📅 [Daily Appointment Management](#) - This system, designed for daily work, allows users to set appointments and receive reminders.
+
+🛒 [Union Sales System](#) - A pharmaceutical system that manages sales, stock information, and provides low stock reminders.
+
+
+
+
+
+
+
 <!--
 add letter...
 📰 Invoice Builder
