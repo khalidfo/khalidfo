@@ -36,7 +36,24 @@
 
 🔭 [Web-Based Monitoring System](https://www.grameenphone.com/) - Telecom business involving base station posting, monitoring, and issue resolution with a ticketing system.
 
-📊 [Neural Accounting Package - NAP](#) - 
+📊 [Neural Accounting Package - NAP](http://bangladeshyellowpages.com/details/189140-neural-systems-ltd.html) - A desktop-based accounting solution for small businesses offering flexible head creation and various voucher types.
+
+⛱️ [Leave Management](http://bangladeshyellowpages.com/details/189140-neural-systems-ltd.html) -  An application for managing leaves and holidays with approval workflows and detailed monthly leave reports for organizations and employees.
+
+💻 [Machine Learning Approaches for Modeling Spammer Behavior](https://arxiv.org/ftp/arxiv/papers/1008/1008.3282.pdf) - Email analysis system that evaluates email content to determine if it's spam or not by assigning numerical values to items and summing them up.
+
+📐 [Student Alumni System](#) - Alumni network platform for classmates.
+
+📱 [Mobile Emailing System](#) - Sending emails from a mobile device using a web server like Apache.
+
+📰  [Diverse Tongue News by Unicode](#) - Posting news in any Unicode-supported language, allowing users to comment on the news. 
+
+🗄️ [Server Registration for Binding Agent](#) - A Binding Agent server maintains information about active servers, ensuring uninterrupted service by seamlessly redirecting users to working servers in its network.
+
+📑 [Mobile File Sharing](#) - Sharing files across mobile devices via web servers like Apache.
+
+🗞️ [Bangla News by Unicode](#) - Online news platform enabling news posting in Unicode-supported Bengali with user comments using a custom Bengali keyboard.
+
 
 <!--
 add letter...
