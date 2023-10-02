@@ -100,8 +100,42 @@ add letter...
 fail product...
 jzom
 thatlive
-mosrin - pos, ecome
+mosrin - pos, become
 
+*** Training
+Internal Auditor 9-Sep-2007 
+Software Quality Boot Camp 10-Sep-2007 
+Peer Review & Inspection 9-Sep-2007 
+Structured Methods for Software Testing 24-Sep-2007 
+& 25-Sep-2007 
+Venue: MBA Club, Gulshan. Taken by: QAI (India) Limited
+Mastering In Content Strategy by Abul Kashem 2019
+Blogging for Business Ahrefs 2019
+SEO That Works by Brain Dean 2019
+Affiliate Marketing BITM, BASIS 2016 
+Software Development by GeneXus 2015
+Software Testing Spectrum Consortium 2007 
+
+Admin / Moderator
+Quran 2009 - Till Facebook, Twitter, Pinterest
+Hadith 2009 - Till Facebook
+
+Roll of Honor
+Recognized by NCC Education for having achieved the highest results in NCC Education Accredited Partner Centre in the December 2004 exam (International Advance Diploma in Computer Studies [IADCS]) session. Source: www.nccedu.com/students.
+
+Scholarship
+Course Name: International Advance Diploma in Computer Studies (IADCS) 
+From: Neural Institute of Management & IT
+
+Publication
+Conference Papers
+Khalid Farhan, Md. Saiful Islam, Md. Abdur Rahman and Shah Mostafa Khaled, Machine Learning Approaches for Modeling Spammer Behavior, Submitted to 12th IEEE International Conference on Computer and Information Technology, 2009 
+https://arxiv.org/ftp/arxiv/papers/1008/1008.3282.pdf
+
+
+
+
+** 
 
 **khalidfo/khalidfo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
