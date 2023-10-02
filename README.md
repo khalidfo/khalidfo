@@ -1,5 +1,6 @@
 <h1>👋 Hi, it's Khalid, nice to see you.</h1>
 
+<b>Projects of Distinction: Some highlighted projects</b>
 
 🏫 [Astute](https://astutebd.com/) - An integrated School Management System that centrally manages schools, teachers, and students, encompassing attendance tracking, result processing, fee management, scheduling, library management, SMS communication, inventory management, club activities, sports management, and canteen operations.
 
