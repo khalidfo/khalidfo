@@ -1,10 +1,13 @@
 <h1>👋 Hi, it's Khalid, nice to see you.</h1>
 
+
+🏫 [stute](https://astutebd.com/) - An integrated School Management System that centrally manages schools, teachers, and students, encompassing attendance tracking, result processing, fee management, scheduling, library management, SMS communication, inventory management, club activities, sports management, and canteen operations.
+
 <!--
 **khalidfo/khalidfo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+📰 Invoice Builder
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
