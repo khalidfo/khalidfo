@@ -70,7 +70,7 @@
 
 
 
-#### Reach me
+#### Get in touch with me
 
 - [Linkedin](https://www.linkedin.com/in/khalidfarhan/)
 - [Facebook](https://www.facebook.com/khalidfo)
