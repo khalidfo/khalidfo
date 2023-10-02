@@ -8,12 +8,13 @@
 
 📒[Audit Trail](https://akorbi.com/) - Implement comprehensive transaction tracking for project tasks, displaying real-time updates, identifying responsible individuals for activity changes, and facilitating historical data monitoring.  
 
-[Tanjimul Madaris](http://www.tanjimulmadaris.com/) - Integrated system for managing education boards, exams, centers, student marks entry, result processing, and result viewing, including a dedicated module for madrasa management.
+🏢 [Tanjimul Madaris](http://www.tanjimulmadaris.com/) - Integrated system for managing education boards, exams, centers, student marks entry, result processing, and result viewing, including a dedicated module for madrasa management.
 
 🧮 [Vivid Accounting](http://vividinternational.net/) - An Accounting Management System featuring various vouchers, checkbook management, and comprehensive reporting capabilities. 
 
 🎓 [Academic ERP](http://vividinternational.net/) - Admin Portal for school administrative tasks., Teacher Portal for timetables and student performance. Student/Parent Portal for academic info, events, attendance, and fees, with a user-friendly Dashboard and fee collection.
 
+🩺 [Doctor Prescription Automation](https://www.iimdirect.com/) - Develop a data entry automation application for doctor prescriptions that assigns images to users and synchronizes text input with corresponding image locations, enabling faster data entry and automated payment calculations.
 
 <!--
 **khalidfo/khalidfo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
