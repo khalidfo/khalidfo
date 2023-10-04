@@ -2,7 +2,7 @@
 
 ## Products
 
-🟨 Hover Console - A free browser extension that streamlines console logging.
+🟨 Hover Console - A free browser extension that streamlines JavaScript console logging.
 
 🚀 Onpage SEO Audit Tool - A free browser extension.
 
