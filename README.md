@@ -6,7 +6,7 @@
 
 🚀 Onpage SEO Audit Tool - A free browser extension.
 
-📨 [Semoauto](https://chrome.google.com/webstore/detail/semoauto-semrush-outreach/nbidlnmcchnnkedebodffbcaddlbokci) - Utilize the Semrush Outreach Automation Tool, a free Chrome extension for efficient outreach automation.
+📨 [Semoauto](https://chrome.google.com/webstore/detail/semoauto-semrush-outreach/nbidlnmcchnnkedebodffbcaddlbokci) - Semrush Outreach Automation Tool, a free Chrome extension for efficient outreach automation.
 
 📧 [SEMRush Email Extractor](https://chrome.google.com/webstore/detail/semrush-email-extractor/kjdmkgfoecgachgcfpeplgadmdhkppla) - Extract emails using our free Chrome extension, supercharging your outreach and marketing campaigns.
 
