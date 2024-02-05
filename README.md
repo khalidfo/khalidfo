@@ -1,5 +1,7 @@
 # 👋 Hi, it's Khalid, nice to see you. 
 
+Welcome to my GitHub space! 👋 I bring over two decades of expertise in crafting scalable, high-performance software applications. My journey spans diverse projects, from nimble startups to expansive enterprises, contributing to the development of robust systems in E-commerce, ERP, POS, Education Management, CRM, Data Analysis, HR Management, Accounting, Supply Chain Management, Appointment Management, Inventory Management and so on.
+
 ## Products
 
 🟨 Hover Console - A free browser extension that streamlines JavaScript console logging.
