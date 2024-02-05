@@ -100,9 +100,9 @@ Below is a curated list of products and projects where I've played a vital role:
 </details>
 
 ## Passionate Collaborator
-Beyond coding, I delve into understanding business intricacies, applying technology to tackle complex challenges, and striving to make a positive societal impact through innovative solutions.
+Apart from coding, I explore business intricacies, use technology to address challenges, and aim for a positive impact through innovation. 
 
-Let's connect! If you're intrigued by my journey or exploring collaboration opportunities, feel free to reach out. 🌐✨
+Let's connect! If you're interested in my journey or potential collaborations, feel free to reach out. 🌐✨
 
 <b>Get in touch with me</b>
 
