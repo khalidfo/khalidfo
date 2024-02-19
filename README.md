@@ -1,9 +1,9 @@
 # 👋 Hi, it's Khalid, nice to see you. 
 
-Greetings from my GitHub hub! 👋 With over two decades in the tech realm, I'm adept at crafting scalable, high-performance software applications. My journey has taken me through various projects, ranging from dynamic startups to expansive enterprises, where I've contributed to the development of robust systems.
+Greetings from my GitHub hub! 👋 With over two decades in the tech field, I'm creating scalable solutions. My journey has taken me through various projects, ranging from new organizations to enterprises, where I've contributed to the development of robust systems.
 
 ## Versatile Roles Played
-Throughout my career, I've donned various hats—software developer, requirements analysis, documentation, tester, QA/QC, SW implementation, database designer, architect, task manager, team lead, and project manager.
+Throughout my career, I've donned various hats - software developer, requirements analysis, documentation, tester, QA/QC, implementation, database designer, architect, task manager, team lead, and project manager.
 
 Below is a curated list of products and projects where I've played a vital role:
 
