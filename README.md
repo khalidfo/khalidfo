@@ -9,7 +9,7 @@ Below is a curated list of products and projects where I've played a vital role:
 
 ## Products
 
-🟨 [Hover Console](https://chromewebstore.google.com/detail/aphoemnhgnocfcelkiiggcjpmklbeloo) - A free browser extension that streamlines JavaScript console logging.
+🟨 [Hover Console](https://chromewebstore.google.com/detail/aphoemnhgnocfcelkiiggcjpmklbeloo) - A free browser extension to get real-time console logs right on your page.
 
 🚀 Onpage SEO Audit Tool - A free browser extension.
 
