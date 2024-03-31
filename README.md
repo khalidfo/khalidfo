@@ -11,12 +11,11 @@ Below is a curated list of products and projects where I've played a vital role:
 
 🟨 [Hover Console](https://chromewebstore.google.com/detail/aphoemnhgnocfcelkiiggcjpmklbeloo) - A free browser extension to get real-time console logs right on your page.
 
-🚀 Onpage SEO Audit Tool - A free browser extension.
-
 📨 [Semoauto](https://chromewebstore.google.com/detail/nbidlnmcchnnkedebodffbcaddlbokci) - Semrush Outreach Automation Tool, a free Chrome extension for efficient outreach automation.
 
-📧 [SEMRush Email Extractor](https://chrome.google.com/webstore/detail/semrush-email-extractor/kjdmkgfoecgachgcfpeplgadmdhkppla) - Extract emails using our free Chrome extension, supercharging your outreach and marketing campaigns.
+📧 [SEMRush Email Extractor](https://chrome.google.com/webstore/detail/semrush-email-extractor/kjdmkgfoecgachgcfpeplgadmdhkppla) - Extract emails using our free Chrome extension, boost your outreach and marketing campaigns.
 
+🚀 Onpage SEO Audit Tool - A free browser extension.
 
 ## Some Random Projects
 
