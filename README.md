@@ -1,4 +1,4 @@
-<img src="[/assets/img/MarineGEO_logo.png](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRP5lf42PJZ6WQUsNgJLk6Nfpn36Z1_xSxs34KtP80GI5Mb7WzfF_lwXuItWrCiqYt2BWNTuivB3_EtlohNJqb-LLl1GUI7bLcF7FQqgQSHPhYT8riPoKGqoKjBMCL4rM3YzV9VObiSlWSrY6BCM_wPDqC9x9rP1Wa-WKcBQKGduan7TdsojorPA5Bok6f/s1500/twitter%20banner%201500x500.png" alt="Hover Console" style=""/>
+<img src="[/assets/img/MarineGEO_logo.png](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRP5lf42PJZ6WQUsNgJLk6Nfpn36Z1_xSxs34KtP80GI5Mb7WzfF_lwXuItWrCiqYt2BWNTuivB3_EtlohNJqb-LLl1GUI7bLcF7FQqgQSHPhYT8riPoKGqoKjBMCL4rM3YzV9VObiSlWSrY6BCM_wPDqC9x9rP1Wa-WKcBQKGduan7TdsojorPA5Bok6f/s1500/twitter%20banner%201500x500.png" alt="Hover Console" style="height: 100px; width:100px;"/>
 
 # 👋 Hi, it's Khalid, nice to see you. 
 
