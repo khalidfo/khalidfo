@@ -19,7 +19,7 @@ Below is a curated list of products and projects where I've played a vital role:
 
 🚀 Onpage SEO Audit Tool - A free browser extension.
 
-## Some Random Projects
+## Notable Contributions
 
 📊 [Image Data Analysis](https://www.olympus-ims.com/en/) - A versatile image data analysis application presented in various formats to assist users in making informed decisions with ease.
 
