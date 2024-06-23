@@ -105,18 +105,11 @@ Apart from coding, I explore business insides, use technology to address challen
 
 Let's connect! If you're interested in my journey or potential collaborations, feel free to reach out. 🌐✨
 
-<b>Get in touch with me</b>
-
-- [Linkedin](https://www.linkedin.com/in/khalidfarhan/)
-- [Facebook](https://www.facebook.com/khalidfo)
-- [Twitter](https://twitter.com/khalid_farhan)
-
-
 <h3 align="left">Connect with me</h3>
 <p align="left">
 <a href="https://linkedin.com/in/khalidfarhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="khalidfarhan" height="30" width="40" /></a>
 <a href="https://twitter.com/khalid_farhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="khalid_farhan" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/1632086/khalid-farhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/1632086/khalid-farhan" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/1632086/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/1632086/khalid-farhan" height="30" width="40" /></a>
 <a href="https://fb.com/khalidfo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="khalidfo" height="30" width="40" /></a>
 <a href="https://instagram.com/khalidfarhan9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="khalidfarhan9" height="30" width="40" /></a>
 </p>
