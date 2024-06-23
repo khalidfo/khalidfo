@@ -1,14 +1,3 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=khalidfo&label=Profile%20views&color=0e75b6&style=flat" alt="khalidfo" /> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/khalid_farhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="khalid_farhan" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/khalidfarhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="khalidfarhan" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/1632086/khalid-farhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/1632086/khalid-farhan" height="30" width="40" /></a>
-<a href="https://instagram.com/khalidfarhan9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="khalidfarhan9" height="30" width="40" /></a>
-</p>
-
-
 <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRP5lf42PJZ6WQUsNgJLk6Nfpn36Z1_xSxs34KtP80GI5Mb7WzfF_lwXuItWrCiqYt2BWNTuivB3_EtlohNJqb-LLl1GUI7bLcF7FQqgQSHPhYT8riPoKGqoKjBMCL4rM3YzV9VObiSlWSrY6BCM_wPDqC9x9rP1Wa-WKcBQKGduan7TdsojorPA5Bok6f/s1500/twitter%20banner%201500x500.png" alt="Hover Console" style=""/>
 
 # 👋 Hi, it's Khalid, nice to see you. 
@@ -123,6 +112,14 @@ Let's connect! If you're interested in my journey or potential collaborations, f
 - [Twitter](https://twitter.com/khalid_farhan)
 
 
+<h3 align="left">Connect with me</h3>
+<p align="left">
+<a href="https://linkedin.com/in/khalidfarhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="khalidfarhan" height="30" width="40" /></a>
+<a href="https://twitter.com/khalid_farhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="khalid_farhan" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/1632086/khalid-farhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/1632086/khalid-farhan" height="30" width="40" /></a>
+<a href="https://fb.com/khalidfo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="khalidfo" height="30" width="40" /></a>
+<a href="https://instagram.com/khalidfarhan9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="khalidfarhan9" height="30" width="40" /></a>
+</p>
 
 
 
