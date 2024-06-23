@@ -45,7 +45,7 @@ Below is a curated list of products and projects where I've played a vital role:
   
 <details>
 <summary>
-  <b> Some more projects </b> 👇👇👇
+  <b> More Notable Contributions </b> 👇👇👇
 </summary>
 
 <br>
