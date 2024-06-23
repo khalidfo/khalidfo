@@ -1,3 +1,14 @@
+<h3 align="center">A passionate frontend developer from India</h3>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/asdf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="asdf" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/asdf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="asdf" height="30" width="40" /></a>
+<a href="https://fb.com/sdf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sdf" height="30" width="40" /></a>
+<a href="https://instagram.com/sadf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sadf" height="30" width="40" /></a>
+</p>
+
+
 <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRP5lf42PJZ6WQUsNgJLk6Nfpn36Z1_xSxs34KtP80GI5Mb7WzfF_lwXuItWrCiqYt2BWNTuivB3_EtlohNJqb-LLl1GUI7bLcF7FQqgQSHPhYT8riPoKGqoKjBMCL4rM3YzV9VObiSlWSrY6BCM_wPDqC9x9rP1Wa-WKcBQKGduan7TdsojorPA5Bok6f/s1500/twitter%20banner%201500x500.png" alt="Hover Console" style=""/>
 
 # 👋 Hi, it's Khalid, nice to see you. 
