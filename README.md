@@ -1,5 +1,3 @@
-<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgHlEiuyaRjf_rkB17ArnTpWKD0tqVMA_EM0bWzzAKqXi7op1HJS3MP1Gzk25-R13iNtmcw9Bid-CXxPMeP7DSPYiNCLcqHrcDjJrPyvCJtWDl8-__uSJnGaZ-EaX2xYvEgsvX3oq8gbVWxzNsSO0ug5u_eCsXU6oYTIW_4vSzV-LgwJbaLX6Rm7FLT2miA/s800/pinterest-800x400.png" alt="Hover Console" style=""/>
-
 # 👋 Hi, it's Khalid, nice to see you. 
 
 Greetings from my GitHub hub! 👋 With over two decades in the tech field, I'm creating scalable solutions. My journey has taken me through various projects, ranging from new organizations to enterprises, where I've contributed to the development of robust systems.
