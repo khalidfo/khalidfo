@@ -41,10 +41,8 @@ Below is a curated list of products and projects where I've played a vital role:
 
 <br>
   
-<details>
-<summary>
-  <b> More Notable Contributions </b> 👇👇👇
-</summary>
+
+## More Notable Contributions 
 
 <br>
 
@@ -96,7 +94,7 @@ Below is a curated list of products and projects where I've played a vital role:
 
 🏪 [Inventory Management](#) - This system, designed for shops, handles purchases and production to increase stock, tracks stock information by location, provides low stock reminders, and identifies frequently used items.
 
-</details>
+
 
 ## Passionate Collaborator
 Apart from coding, I explore business insides, use technology to address challenges, and aim for a positive impact through innovation. 
