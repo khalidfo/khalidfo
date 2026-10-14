@@ -19,7 +19,7 @@ Below is a curated list of products and projects where I've played a vital role:
 
 ## Notable Contributions
 
-📊 [Image Data Analysis](https://www.olympus-global.com/) - A versatile image data analysis application presented in various formats to assist users in making informed decisions with ease.
+📊 [Scientific Imaging & Analysis](https://www.olympus-global.com/) - A comprehensive range of microscopy, industrial inspection, and imaging solutions designed to help users capture, analyze, and interpret high-quality images for scientific research and industrial applications..
 
 📒[Audit Trail](https://akorbi.com/) - Implement comprehensive transaction tracking for project tasks, displaying real-time updates, identifying responsible individuals for activity changes, and facilitating historical data monitoring. 
 
